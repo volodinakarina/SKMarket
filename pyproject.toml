@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "skmarket"
+version = "0.1.0"
+description = ""
+authors = ["karinavolodina <volodinakarina27@yandex.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+django = "^4.2.2"
+envparse = "^0.2.0"
+psycopg2-binary = "^2.9.6"
+django-phonenumber-field = "^7.1.0"
+phonenumbers = "^8.13.15"
+factories = "^1.2.0"
+drf-spectacular = "^0.26.3"
+pytest-factoryboy = "^2.5.1"
+pillow = "^10.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
