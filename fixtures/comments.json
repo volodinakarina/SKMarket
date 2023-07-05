@@ -1,6 +1,6 @@
 [
   {
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 1,
     "fields": {
       "text": "Отличное предложение! Уже не первый раз контактирую с этим продавцем, все ок!",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 2,
     "fields": {
       "text": "Не связвайтесь с ним!",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 3,
     "fields": {
       "text": "Всегда адекватные цены на товар!",
@@ -29,7 +29,7 @@
       "ad": 1
     }
   },{
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 4,
     "fields": {
       "text": "Уместен ли торг?",
@@ -38,7 +38,7 @@
       "ad": 3
     }
   },{
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 5,
     "fields": {
       "text": "На фото непонятно состояние товара!",
@@ -47,7 +47,7 @@
       "ad": 4
     }
   },{
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 6,
     "fields": {
       "text": "Здесь может быть Ваша реклама!",
@@ -57,7 +57,7 @@
     }
   },
   {
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 7,
     "fields": {
       "text": "Продам в два раза дешевле чем здесь звоните!",
@@ -66,7 +66,7 @@
       "ad": 6
     }
   },{
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 8,
     "fields": {
       "text": "Замечательный товар! Хочу приобрести в ближайшее время",
@@ -76,7 +76,7 @@
     }
   },
   {
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 9,
     "fields": {
       "text": "Кто нибудь уже что-то у этого пользователя?",
@@ -85,7 +85,7 @@
       "ad": 1
     }
   },{
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 10,
     "fields": {
       "text": "Да! Мне пришло все вовремя и в срок",
@@ -94,7 +94,7 @@
       "ad": 1
     }
   },{
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 11,
     "fields": {
       "text": "Отличное качество!",
@@ -103,7 +103,7 @@
       "ad": 1
     }
   },{
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 12,
     "fields": {
       "text": "Цена немного кусается но в целом мне понравилось!",
@@ -112,7 +112,7 @@
       "ad": 8
     }
   },{
-    "model": "ads.comment",
+    "model": "core.comment",
     "pk": 13,
     "fields": {
       "text": "Спасибо!",
